@@ -1,7 +1,7 @@
 ## Description
 - I created a simple portfolio webpage for "CodeSpace Cat" in HTML5
   
-## What I Learnt
+## What I Learned
 This project helped me to understant the fundemental elements of HTML, such as headings, paragraphs, lists, images, links, and forms.
 
 ## Screenshot
